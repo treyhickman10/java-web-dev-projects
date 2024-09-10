@@ -13,7 +13,7 @@ public class Main {
 		for (String letter : characters){
 			if(!charCount.containsKey(letter)){
 				charCount.put(letter, 1);
-			}else {}
+			}else {f}
 
 //			while(charArrayList.contains(letter)){
 //
